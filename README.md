@@ -1,4 +1,4 @@
-# JavaScript
+#  JavaScript
 Java,JavaScript,Css,Html,
 예전에 했던 프로젝트입니다  Java,JavaScript,Css,Html, 이용해 기본적인 산성비게임을 쉽게 만들어 보았습니다.
 타자를 칠때 맞춘개수를 카운트 하는 기능과 시간
